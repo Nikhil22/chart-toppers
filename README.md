@@ -60,7 +60,7 @@
    </pre>
 
    <li>Click 'Login'</li> <br>
-   <li>Grab a drink, sit back, and watch as you discover your most liked Facebook pages</li>
+   <li>Grab a drink, sit back, and watch as you discover the categories behind your most liked Facebook pages</li>
  </ol>
 
 <h2>Technologies used</h2>
