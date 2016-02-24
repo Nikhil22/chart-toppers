@@ -28,7 +28,7 @@
 
 <ol>
   <li>Clone this repo & install all dependencies</li> <br>
-  <pre>cd </pre> <br>
+  <pre>cd chart-toppers</pre> <br>
   <pre>npm install</pre> <br>
 
   <li>Important! Make sure you have a Facebook App ID. <br> If you don't, visit https://developers.facebook.com.</li> <br>
