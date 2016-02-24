@@ -19,7 +19,7 @@
 <h2>Things that can be improved</h2>
 <ol>
 <li>Change the httpGet function in fun/utility.js from synchronous to asynchronous, and use promises to control the flow</li>
-<li>Allow the user to chose which categories they are interested in seeing in the area chart</li>
+<li>Allow the user to chose which categories they are interested in seeing, in the area chart</li>
 </ol>
 
 <h5>These are the 2 main improvements I can think of. If you can think of more (surely, there are more improvements to be made), don't hesitate to add 'em to this list & contribute your code :) </h5>
