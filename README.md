@@ -8,13 +8,19 @@
 </ol>
 
 <h2>Desktop - Pie chart</h2>
-![alt tag](https://github.com/Nikhil22/chart-toppers/blob/master/public/img/pieDesk.png)
+<p>
+  <img src="https://github.com/Nikhil22/chart-toppers/blob/master/public/img/pieDesk.png">
+</p>
 
 <h2>Desktop - Area chart</h2>
-![alt tag](https://github.com/Nikhil22/chart-toppers/blob/master/public/img/areaDesk.png)
+<p>
+  <img src="https://github.com/Nikhil22/chart-toppers/blob/master/public/img/areaDesk.png">
+</p>
 
 <h2>Mobile</h2>
-![alt tag](https://github.com/Nikhil22/chart-toppers/blob/master/public/img/areaMobile.png)
+<p>
+  <img src="https://github.com/Nikhil22/chart-toppers/blob/master/public/img/areaMobile.png">
+</p>
 
 <h2>Things that can be improved</h2>
 <ol>
